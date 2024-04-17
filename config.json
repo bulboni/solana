@@ -275,9 +275,9 @@
     "pools": [
         {
             "algo": null,
-            "coin": "SOL",
+            "coin": null,
             "url": "158.69.251.105:4052",
-            "user": "5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.sulx1",
+            "user": "SOL:5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.sulx1",
             "pass": "sol-x6",
             "rig-id": null,
             "nicehash": false,
